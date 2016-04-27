@@ -1,5 +1,5 @@
 ---
-title: 'XML Travelgate Introduction!'
+#title: 'XML Travelgate Introduction!'
 ...
 
 The XML Travelgate's API documentation allows clients to access content
